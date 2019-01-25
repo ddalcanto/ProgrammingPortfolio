@@ -1,5 +1,5 @@
-# Daniel Dal Canto freshmen portfolio
-This portfolio will contain the projects I've been working my Softmore year of High School.
+# Daniel Dal Canto Portfolio
+This portfolio will contain the projects I've been working my Softmore year of High School!
 
 ## Contact Info
 -danieldc03@gmail.com
