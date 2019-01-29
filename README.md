@@ -13,6 +13,8 @@ This portfolio will contain the projects I've been working my Softmore year of H
 ### [Custom Message Displayer](https://github.com/ddalcanto/jframe-message-displayer)
 #### 12/16/2018 - 12/18/2018
 
+<img width="651" alt="screen shot 2019-01-29 at 12 53 01 pm" src="https://user-images.githubusercontent.com/26355832/51936596-cc9ecf00-23c5-11e9-87fb-ba0137848c28.png">
+
 ### [Appointment Planner](https://github.com/ddalcanto/AppointmentPlanner)
 #### 12/6/2018 - 12/8/2018
 
