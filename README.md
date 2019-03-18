@@ -15,7 +15,7 @@ This portfolio contains the projects I've been working my Softmore year of High 
 
 #### Running Application
 
-<img width="740" alt="welcome" src="https://user-images.githubusercontent.com/26355832/53457807-d598b580-39f0-11e9-87f4-218a92244b8a.PNG">
+<img width="1022" alt="Screen Shot 2019-03-18 at 1 06 22 PM" src="https://user-images.githubusercontent.com/26355832/54556580-c74e1180-497e-11e9-9a81-817d009e87d1.png">
 
 #### UML Diagram
 
